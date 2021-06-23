@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewsApplication</string>
+    <string name="timeline">Timeline</string>
+    <string name="description">Description</string>
+    <string name="search">Search</string>
+    <string name="news_application">News Application</string>
+    <string name="cancel">Cancel</string>
+    <string name="apply">apply</string>
+</resources>
